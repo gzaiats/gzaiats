@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi, I’m Georgia
 
-<!--
-**gzaiats/gzaiats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering student**  
+👩‍🏫 **English Teacher at CCAA**  
+💻 **Aspiring IT Professional**
 
-Here are some ideas to get you started:
+I’m currently studying **Software Engineering** while building a strong foundation in programming and web development. Teaching has helped me develop clear communication, organization, and problem-solving skills — which I bring into tech 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech & Skills
+- 🐍 Python  
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚡ JavaScript  
+
+📚 Currently improving:
+- Programming logic  
+- Clean code & best practices  
+
+---
+
+## 🎯 Goals
+- ✨ Transition fully into the IT field  
+- 🧠 Keep learning and building real projects  
+- 🤝 Collaborate and grow as a developer  
+
+---
+
+## 📫 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/georgiazaiats/)
+
+---
+
+⭐ *Always learning, always improving.*
