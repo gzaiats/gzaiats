@@ -27,9 +27,4 @@ I’m currently studying **Software Engineering** while building a strong founda
 
 ---
 
-## 📫 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/georgiazaiats/)
-
----
-
 ⭐ *Always learning, always improving.*
