@@ -9,10 +9,9 @@ I’m currently studying **Software Engineering** while building a strong founda
 ---
 
 ## 🛠️ Tech & Skills
-- 🐍 Python  
 - 🌐 HTML  
 - 🎨 CSS  
-- ⚡ JavaScript  
+- ☕️ Java 
 
 📚 Currently improving:
 - Programming logic  
