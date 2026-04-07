@@ -1,17 +1,17 @@
 ## 👋 Hi, I’m Georgia
 
-🎓 **Software Engineering student**  
-👩‍🏫 **English Teacher at CCAA**  
+🎓 **Information Systems student**  
+👩‍🏫 **Generalist AI Trainer and former English Teacher at CCAA**  
 💻 **Aspiring IT Professional**
 
-I’m currently studying **Software Engineering** while building a strong foundation in programming and web development. Teaching has helped me develop clear communication, organization, and problem-solving skills — which I bring into tech 🚀
+I’m currently studying **Information Systems** while building a strong foundation in programming and web development. Teaching has helped me develop clear communication, organization, and problem-solving skills — which I bring into tech 🚀
 
 ---
 
 ## 🛠️ Tech & Skills
 - 🌐 HTML  
 - 🎨 CSS  
-- ☕️ Java 
+- ⚡️ JavaScript
 
 📚 Currently improving:
 - Programming logic  
@@ -26,4 +26,4 @@ I’m currently studying **Software Engineering** while building a strong founda
 
 ---
 
-⭐ *Always learning, always improving.*
+🌟 *“If not now, when?”*
