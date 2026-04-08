@@ -12,6 +12,7 @@ I’m currently studying **Information Systems** while building a strong foundat
 - 🌐 HTML  
 - 🎨 CSS  
 - ⚡️ JavaScript
+- ☕️ Java
 
 📚 Currently improving:
 - Programming logic  
